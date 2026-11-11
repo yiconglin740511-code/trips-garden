@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="coder-agent (photo-GPX + OSRM road-snap)" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>2026-05-14</name>
+    <desc>road-snapped via OSRM driving; photo timestamps interpolated along road</desc>
+    <trkseg>
+      <trkpt lat="35.551108" lon="139.749090">
+        <time>2026-05-14T21:30:51+09:00</time>
+      </trkpt>
+      <trkpt lat="35.551108" lon="139.749090">
+        <time>2026-05-14T21:31:00+09:00</time>
+      </trkpt>
+      <trkpt lat="35.551115" lon="139.749064">
+        <time>2026-05-14T21:31:08+09:00</time>
+      </trkpt>
+      <trkpt lat="35.550816" lon="139.748940">
+        <time>2026-05-14T21:32:55+09:00</time>
+      </trkpt>
+      <trkpt lat="35.550508" lon="139.748812">
+        <time>2026-05-14T21:33:45+09:00</time>
+      </trkpt>
+      <trkpt lat="35.550249" lon="139.748700">
+        <time>2026-05-14T21:34:12+09:00</time>
+      </trkpt>
+      <trkpt lat="35.550060" lon="139.748619">
+        <time>2026-05-14T21:34:26+09:00</time>
+      </trkpt>
+      <trkpt lat="35.550013" lon="139.748599">
+        <time>2026-05-14T21:34:27+09:00</time>
+      </trkpt>
+      <trkpt lat="35.550009" lon="139.748597">
+        <time>2026-05-14T21:34:27+09:00</time>
+      </trkpt>
+      <trkpt lat="35.549986" lon="139.748586">
+        <time>2026-05-14T21:34:27+09:00</time>
+      </trkpt>
+      <trkpt lat="35.549789" lon="139.748494">
+        <time>2026-05-14T21:34:41+09:00</time>
+      </trkpt>
+      <trkpt lat="35.549656" lon="139.748432">
+        <time>2026-05-14T21:34:47+09:00</time>
+      </trkpt>
+      <trkpt lat="35.549221" lon="139.748229">
+        <time>2026-05-14T21:35:43+09:00</time>
+      </trkpt>
+      <trkpt lat="35.549158" lon="139.748200">
+        <time>2026-05-14T21:35:44+09:00</time>
+      </trkpt>
+      <trkpt lat="35.549113" lon="139.748174">
+        <time>2026-05-14T21:35:45+09:00</time>
+      </trkpt>
+      <trkpt lat="35.548875" lon="139.748059">
+        <time>2026-05-14T21:36:00+09:00</time>
+      </trkpt>
+      <trkpt lat="35.548779" lon="139.748012">
+        <time>2026-05-14T21:36:09+09:00</time>
+      </trkpt>
+      <trkpt lat="35.548521" lon="139.747884">
+        <time>2026-05-14T21:36:27+09:00</time>
+      </trkpt>
+      <trkpt lat="35.548152" lon="139.747701">
+        <time>2026-05-14T21:36:46+09:00</time>
+      </trkpt>
+      <trkpt lat="35.548101" lon="139.747678">
+        <time>2026-05-14T21:36:46+09:00</time>
+      </trkpt>
+      <trkpt lat="35.548087" lon="139.747737">
+        <time>2026-05-14T21:36:46+09:00</time>
+      </trkpt>
+      <trkpt lat="35.548077" lon="139.747778">
+        <time>2026-05-14T21:36:46+09:00</time>
+      </trkpt>
+      <trkpt lat="35.547972" lon="139.748214">
+        <time>2026-05-14T21:36:59+09:00</time>
+      </trkpt>
+      <trkpt lat="35.547975" lon="139.748264">
+        <time>2026-05-14T21:37:00+09:00</time>
+      </trkpt>
+      <trkpt lat="35.547975" lon="139.748264">
+        <time>2026-05-15T19:32:50+09:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
