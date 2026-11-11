@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="coder-agent (photo-GPX + OSRM road-snap)" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>2024-03-21</name>
+    <desc>road-snapped via OSRM driving; photo timestamps interpolated along road</desc>
+    <trkseg>
+      <trkpt lat="34.818260" lon="135.426650">
+        <time>2024-03-21T15:34:02+09:00</time>
+      </trkpt>
+      <trkpt lat="34.818260" lon="135.426650">
+        <time>2024-03-21T15:39:20+09:00</time>
+      </trkpt>
+      <trkpt lat="34.818260" lon="135.426650">
+        <time>2024-03-21T20:37:53+09:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
