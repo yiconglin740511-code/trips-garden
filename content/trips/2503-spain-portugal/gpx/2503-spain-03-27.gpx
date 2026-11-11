@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx version="1.1" creator="coder-agent (photo-GPX + OSRM road-snap)" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>2025-03-27</name>
+    <desc>road-snapped via OSRM driving; photo timestamps interpolated along road</desc>
+    <trkseg>
+      <trkpt lat="39.914389" lon="116.401306">
+        <time>2025-03-27T01:53:20+01:00</time>
+      </trkpt>
+      <trkpt lat="39.914385" lon="116.400902">
+        <time>2025-03-27T02:03:32+01:00</time>
+      </trkpt>
+      <trkpt lat="39.914906" lon="116.400893">
+        <time>2025-03-27T02:11:14+01:00</time>
+      </trkpt>
+      <trkpt lat="39.916159" lon="116.400837">
+        <time>2025-03-27T02:33:01+01:00</time>
+      </trkpt>
+      <trkpt lat="39.916143" lon="116.400281">
+        <time>2025-03-27T02:35:26+01:00</time>
+      </trkpt>
+      <trkpt lat="39.915275" lon="116.400321">
+        <time>2025-03-27T02:42:03+01:00</time>
+      </trkpt>
+      <trkpt lat="39.914415" lon="116.400351">
+        <time>2025-03-27T02:47:47+01:00</time>
+      </trkpt>
+      <trkpt lat="39.914391" lon="116.400351">
+        <time>2025-03-27T02:47:47+01:00</time>
+      </trkpt>
+      <trkpt lat="39.914283" lon="116.400359">
+        <time>2025-03-27T02:47:52+01:00</time>
+      </trkpt>
+      <trkpt lat="39.914045" lon="116.400375">
+        <time>2025-03-27T02:48:17+01:00</time>
+      </trkpt>
+      <trkpt lat="39.913880" lon="116.400382">
+        <time>2025-03-27T02:48:29+01:00</time>
+      </trkpt>
+      <trkpt lat="39.913886" lon="116.400271">
+        <time>2025-03-27T02:48:33+01:00</time>
+      </trkpt>
+      <trkpt lat="39.913833" lon="116.399039">
+        <time>2025-03-27T02:56:45+01:00</time>
+      </trkpt>
+      <trkpt lat="39.913829" lon="116.398885">
+        <time>2025-03-27T02:56:52+01:00</time>
+      </trkpt>
+      <trkpt lat="39.913827" lon="116.398822">
+        <time>2025-03-27T02:56:53+01:00</time>
+      </trkpt>
+      <trkpt lat="39.913814" lon="116.398360">
+        <time>2025-03-27T02:57:57+01:00</time>
+      </trkpt>
+      <trkpt lat="39.913797" lon="116.397397">
+        <time>2025-03-27T03:02:23+01:00</time>
+      </trkpt>
+      <trkpt lat="39.913773" lon="116.396813">
+        <time>2025-03-27T03:03:57+01:00</time>
+      </trkpt>
+      <trkpt lat="39.913770" lon="116.396732">
+        <time>2025-03-27T03:03:59+01:00</time>
+      </trkpt>
+      <trkpt lat="39.913618" lon="116.396740">
+        <time>2025-03-27T03:04:06+01:00</time>
+      </trkpt>
+      <trkpt lat="39.913170" lon="116.396763">
+        <time>2025-03-27T03:05:14+01:00</time>
+      </trkpt>
+      <trkpt lat="39.912137" lon="116.396792">
+        <time>2025-03-27T03:10:56+01:00</time>
+      </trkpt>
+      <trkpt lat="39.911373" lon="116.396825">
+        <time>2025-03-27T03:13:53+01:00</time>
+      </trkpt>
+      <trkpt lat="39.910643" lon="116.396887">
+        <time>2025-03-27T03:16:29+01:00</time>
+      </trkpt>
+      <trkpt lat="39.910253" lon="116.396907">
+        <time>2025-03-27T03:17:13+01:00</time>
+      </trkpt>
+      <trkpt lat="39.910230" lon="116.396033">
+        <time>2025-03-27T03:20:05+01:00</time>
+      </trkpt>
+      <trkpt lat="39.910221" lon="116.395677">
+        <time>2025-03-27T03:20:33+01:00</time>
+      </trkpt>
+      <trkpt lat="39.911386" lon="116.390972">
+        <time>2025-03-27T03:20:50+01:00</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

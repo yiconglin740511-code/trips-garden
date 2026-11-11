@@ -1,0 +1,282 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:gpx xmlns:ns0="http://www.topografix.com/GPX/1/1" version="1.1" creator="coder-agent (photo-GPX + OSRM road-snap)">
+  <ns0:trk>
+    <ns0:name>2025-03-10</ns0:name>
+    <ns0:desc>road-snapped via OSRM driving; photo timestamps interpolated along road</ns0:desc>
+    <ns0:trkseg>
+      <ns0:trkpt lat="39.857387" lon="-4.020769">
+        <ns0:time>2025-03-10T06:36:00+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.857387" lon="-4.020769">
+        <ns0:time>2025-03-10T13:57:12+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.857387" lon="-4.020777">
+        <ns0:time>2025-03-10T13:57:22+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.857398" lon="-4.020777">
+        <ns0:time>2025-03-10T13:57:31+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.857390" lon="-4.020504">
+        <ns0:time>2025-03-10T14:02:58+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.857388" lon="-4.020393">
+        <ns0:time>2025-03-10T14:03:26+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.857381" lon="-4.020102">
+        <ns0:time>2025-03-10T14:05:57+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.857378" lon="-4.019885">
+        <ns0:time>2025-03-10T14:07:04+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.857376" lon="-4.019772">
+        <ns0:time>2025-03-10T14:07:21+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.857374" lon="-4.019710">
+        <ns0:time>2025-03-10T14:07:26+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.857366" lon="-4.019427">
+        <ns0:time>2025-03-10T14:09:03+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.857365" lon="-4.019391">
+        <ns0:time>2025-03-10T14:09:05+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.857365" lon="-4.019377">
+        <ns0:time>2025-03-10T14:09:05+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.857363" lon="-4.019324">
+        <ns0:time>2025-03-10T14:09:08+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.857443" lon="-4.019316">
+        <ns0:time>2025-03-10T14:09:17+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.857516" lon="-4.019309">
+        <ns0:time>2025-03-10T14:09:24+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858727" lon="-4.019188">
+        <ns0:time>2025-03-10T14:28:20+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858714" lon="-4.019026">
+        <ns0:time>2025-03-10T14:28:32+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858691" lon="-4.018938">
+        <ns0:time>2025-03-10T14:28:35+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858644" lon="-4.018867">
+        <ns0:time>2025-03-10T14:28:39+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858595" lon="-4.018829">
+        <ns0:time>2025-03-10T14:28:41+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858348" lon="-4.018710">
+        <ns0:time>2025-03-10T14:29:18+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858304" lon="-4.018703">
+        <ns0:time>2025-03-10T14:29:19+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858276" lon="-4.018706">
+        <ns0:time>2025-03-10T14:29:20+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858258" lon="-4.018725">
+        <ns0:time>2025-03-10T14:29:20+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858247" lon="-4.018750">
+        <ns0:time>2025-03-10T14:29:20+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858246" lon="-4.018781">
+        <ns0:time>2025-03-10T14:29:21+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858254" lon="-4.018820">
+        <ns0:time>2025-03-10T14:29:22+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858275" lon="-4.018904">
+        <ns0:time>2025-03-10T14:29:25+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858287" lon="-4.018930">
+        <ns0:time>2025-03-10T14:29:25+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858305" lon="-4.018957">
+        <ns0:time>2025-03-10T14:29:26+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858356" lon="-4.018995">
+        <ns0:time>2025-03-10T14:29:27+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858458" lon="-4.019035">
+        <ns0:time>2025-03-10T14:29:33+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858616" lon="-4.019085">
+        <ns0:time>2025-03-10T14:29:47+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858702" lon="-4.019108">
+        <ns0:time>2025-03-10T14:29:51+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858825" lon="-4.019108">
+        <ns0:time>2025-03-10T14:29:59+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.859099" lon="-4.019089">
+        <ns0:time>2025-03-10T14:30:37+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.859290" lon="-4.019056">
+        <ns0:time>2025-03-10T14:30:55+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.859377" lon="-4.019038">
+        <ns0:time>2025-03-10T14:30:59+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.859373" lon="-4.019018">
+        <ns0:time>2025-03-10T14:31:00+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.859366" lon="-4.018976">
+        <ns0:time>2025-03-10T14:31:16+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.859359" lon="-4.018932">
+        <ns0:time>2025-03-10T14:31:24+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.859353" lon="-4.018899">
+        <ns0:time>2025-03-10T14:31:27+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.859276" lon="-4.018840">
+        <ns0:time>2025-03-10T14:31:49+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.859255" lon="-4.018825">
+        <ns0:time>2025-03-10T14:31:50+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.859228" lon="-4.018802">
+        <ns0:time>2025-03-10T14:31:52+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.859210" lon="-4.018782">
+        <ns0:time>2025-03-10T14:31:53+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.859169" lon="-4.018724">
+        <ns0:time>2025-03-10T14:32:01+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.859086" lon="-4.018675">
+        <ns0:time>2025-03-10T14:32:13+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858883" lon="-4.018486">
+        <ns0:time>2025-03-10T14:33:17+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858683" lon="-4.018327">
+        <ns0:time>2025-03-10T14:33:54+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858323" lon="-4.018204">
+        <ns0:time>2025-03-10T14:35:00+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858310" lon="-4.018204">
+        <ns0:time>2025-03-10T14:35:00+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858077" lon="-4.018120">
+        <ns0:time>2025-03-10T14:35:23+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858033" lon="-4.018105">
+        <ns0:time>2025-03-10T14:35:24+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.857971" lon="-4.018069">
+        <ns0:time>2025-03-10T14:35:25+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.857872" lon="-4.017977">
+        <ns0:time>2025-03-10T14:35:31+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858024" lon="-4.017910">
+        <ns0:time>2025-03-10T14:35:41+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858147" lon="-4.017901">
+        <ns0:time>2025-03-10T14:35:46+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858313" lon="-4.017888">
+        <ns0:time>2025-03-10T14:35:55+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.858778" lon="-4.017874">
+        <ns0:time>2025-03-10T14:36:59+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.859547" lon="-4.018017">
+        <ns0:time>2025-03-10T14:39:15+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.859699" lon="-4.017978">
+        <ns0:time>2025-03-10T14:39:20+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.859839" lon="-4.017947">
+        <ns0:time>2025-03-10T14:39:24+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.860257" lon="-4.018096">
+        <ns0:time>2025-03-10T14:40:00+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.860296" lon="-4.018122">
+        <ns0:time>2025-03-10T14:40:12+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.860325" lon="-4.018127">
+        <ns0:time>2025-03-10T14:45:30+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.860477" lon="-4.018158">
+        <ns0:time>2025-03-10T15:08:32+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.860617" lon="-4.018191">
+        <ns0:time>2025-03-10T15:18:30+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.860690" lon="-4.018213">
+        <ns0:time>2025-03-10T15:20:51+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.860759" lon="-4.018246">
+        <ns0:time>2025-03-10T15:23:02+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.860820" lon="-4.018284">
+        <ns0:time>2025-03-10T15:24:50+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.860881" lon="-4.018335">
+        <ns0:time>2025-03-10T15:26:54+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.860942" lon="-4.018398">
+        <ns0:time>2025-03-10T15:29:14+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.860991" lon="-4.018454">
+        <ns0:time>2025-03-10T15:30:50+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.861050" lon="-4.018540">
+        <ns0:time>2025-03-10T15:33:46+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.861101" lon="-4.018647">
+        <ns0:time>2025-03-10T15:37:13+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.861182" lon="-4.018836">
+        <ns0:time>2025-03-10T15:46:28+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.861351" lon="-4.019247">
+        <ns0:time>2025-03-10T16:18:42+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.861412" lon="-4.019362">
+        <ns0:time>2025-03-10T16:21:02+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.861507" lon="-4.019592">
+        <ns0:time>2025-03-10T16:28:59+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.861575" lon="-4.019728">
+        <ns0:time>2025-03-10T16:31:51+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.861639" lon="-4.019846">
+        <ns0:time>2025-03-10T16:34:02+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.861708" lon="-4.019946">
+        <ns0:time>2025-03-10T16:35:50+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.861777" lon="-4.020032">
+        <ns0:time>2025-03-10T16:37:20+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.861848" lon="-4.020112">
+        <ns0:time>2025-03-10T16:38:44+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.861939" lon="-4.020182">
+        <ns0:time>2025-03-10T16:40:23+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.862010" lon="-4.020226">
+        <ns0:time>2025-03-10T17:53:04+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.862095" lon="-4.020261">
+        <ns0:time>2025-03-10T19:59:00+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.862179" lon="-4.020293">
+        <ns0:time>2025-03-10T20:00:00+01:00</ns0:time>
+      </ns0:trkpt>
+      <ns0:trkpt lat="39.857337" lon="-4.021213">
+        <ns0:time>2025-03-10T20:02:00+01:00</ns0:time>
+      </ns0:trkpt>
+    </ns0:trkseg>
+  </ns0:trk>
+</ns0:gpx>
