@@ -8,9 +8,9 @@ title: 旅程遊記總覽
 
 | 旅程 | 互動地圖 |
 |---|---|
-| [[index-2403-16-kansai\|2024 關西（大阪・神戶・奈良・京都）11 天]] | [🗺️ 地圖＋229 張照片](https://yiconglin740511-code.github.io/trips-garden/trips/maps/2403-16-kansai.html) |
-| [[index-2503-spain-portugal\|2025 西班牙・葡萄牙（＋北京故宮尾日）20 天]] | [🗺️ 地圖＋照片時間軸](https://yiconglin740511-code.github.io/trips-garden/trips/maps/2503-spain-portugal.html) |
-| [[index-2605-hokkaido-tohoku-japan\|2026 北海道・東北 13 天]] | [🗺️ 地圖＋照片時間軸](https://yiconglin740511-code.github.io/trips-garden/trips/maps/2605-hokkaido-tohoku-japan.html) |
+| [[index-2403-16-kansai\|2024 關西（大阪・神戶・奈良・京都）11 天]] | [🗺️ 地圖＋229 張照片](https://yiconglin740511-code.github.io/trips-garden/trips/maps/2403-16-kansai) |
+| [[index-2503-spain-portugal\|2025 西班牙・葡萄牙（＋北京故宮尾日）20 天]] | [🗺️ 地圖＋照片時間軸](https://yiconglin740511-code.github.io/trips-garden/trips/maps/2503-spain-portugal) |
+| [[index-2605-hokkaido-tohoku-japan\|2026 北海道・東北 13 天]] | [🗺️ 地圖＋照片時間軸](https://yiconglin740511-code.github.io/trips-garden/trips/maps/2605-hokkaido-tohoku-japan) |
 
 > 地圖頁：Google 地圖底圖，每日一條彩色 GPX 軌跡（道路吸附），照片按時間擱在軌跡上，點圓點看照片與說明；左側可選日期。
 

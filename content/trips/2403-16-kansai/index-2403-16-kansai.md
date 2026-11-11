@@ -14,7 +14,7 @@ tags: [旅行, route, 軌跡, 關西, 日本]
 ## 地圖
 
 
-🗺️ **[互動地圖＋全程照片時間軸](https://yiconglin740511-code.github.io/trips-garden/trips/maps/2403-16-kansai.html)**
+🗺️ **[互動地圖＋全程照片時間軸](https://yiconglin740511-code.github.io/trips-garden/trips/maps/2403-16-kansai)**
 
 
 ## 實際軌跡
